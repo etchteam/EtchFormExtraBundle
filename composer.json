@@ -1,0 +1,9 @@
+{
+    "name": "etch/form-extra-bundle",
+    "type": "symfony-bundle",
+    "description": "Bundle with some additional form functionality",
+    "autoload": {
+        "psr-0": { "Etch\\FormExtraBundle": "" }
+    },
+    "target-dir": "Etch/FormExtraBundle"
+}

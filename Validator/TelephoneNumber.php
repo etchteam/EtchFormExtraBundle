@@ -23,7 +23,7 @@ class TelephoneNumber extends Constraint
      *
      * @var string
      */
-    public $pattern = '/^[0-9\(\+]{1}([0-9\(\)-\s])+$/i';
+    public $pattern = '/^[0-9\(\+]{1}([0-9\(\)\-\s])+$/i';
 
     /**
      * Whether validator has to match or not
